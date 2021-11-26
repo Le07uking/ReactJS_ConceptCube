@@ -76,7 +76,7 @@
 
 @media only screen and (max-width: 400px) {
   .navbar {
-    width: 400px;
+    width: 100vw;
     /* height: 69px; */
     background-color: var(--background_primary);
     display: flex;
